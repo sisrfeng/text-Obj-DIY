@@ -2,14 +2,17 @@
 
 [![Build Status](https://travis-ci.org/kana/vim-textobj-user.png)](https://travis-ci.org/kana/vim-textobj-user)
 
-vim-textobj-user is a Vim plugin to create your own text objects without pain.
-It is hard to create text objects, because there are many pitfalls to deal
-with.  This plugin hides such details and provides a declarative way to define
-text objects.  You can use regular expressions to define simple text objects,
-or use functions to define complex ones.
+vim-textobj-user is a Vim plugin to create your own text objects
 
+It is hard to
+create text objects,
+because
+there are many pitfalls to deal with.
 
-
+This plugin hides such details and
+provides a declarative way to define text objects.
+You can use regular expressions to define simple text objects,
+    or use functions to define complex ones.     
 
 ## Examples
 
