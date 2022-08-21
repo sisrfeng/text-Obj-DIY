@@ -119,14 +119,17 @@ augroup END
 
 ## Further reading
 
-You can define your own text objects like the above examples.  See also
-[the reference manual](https://github.com/kana/vim-textobj-user/blob/master/doc/textobj-user.txt)
+You can define your own text objects like the above examples.
+See also [the reference manual](https://github.com/kana/vim-textobj-user/blob/master/doc/textobj-user.txt)
 for more details.
 
+
 There are many text objects written with vim-textobj-user.
-If you want to find useful ones, or to know how they are implemented,
-see [a list of text objects implemented with
-vim-textobj-user](https://github.com/kana/vim-textobj-user/wiki).
+If you want to find useful ones,
+or to know how they are implemented,
+see [a list of text objects implemented with vim-textobj-user](https://github.com/kana/vim-textobj-user/wiki).
+
+
 
 
 
